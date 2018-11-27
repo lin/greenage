@@ -2,7 +2,7 @@
 
 创作于2008年（戊子年），时年19岁，均作于哈工大时期
 
-[诗集部分](../master/poems.md) - [诗行记](../master/trip.md)- [人类的进化](../master/evo.md)- [存在的价值](../master/value.md)
+[诗集部分](poems.md) - [诗行记](trip.md)- [人类的进化](evo.md)- [存在的价值](value.md)
 
 ***
 
